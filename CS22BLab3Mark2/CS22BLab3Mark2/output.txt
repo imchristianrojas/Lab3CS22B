@@ -1,0 +1,19 @@
+Hello World's four corners are at (0,0) ,(0,10), (10,10), (10,0).
+Hello World's area is 100 and perimeter is 40
+
+CHristian's four corners are at (5,5) ,(5,15), (15,15), (15,5).
+CHristian's area is 100 and perimeter is 40
+
+Adding your two rectangles together.........
+Added Rectangle's four corners are at (0,0) ,(0,15), (15,15), (15,0).
+Added Rectangle's area is 225 and perimeter is 60
+
+
+Subtracting your rectangles together.........
+Subtracted Rectangle's four corners are at (5,5) ,(5,10), (10,10), (10,5).
+Subtracted Rectangle's area is 25 and perimeter is 20
+
+
+Do you want to try another two rectangles input 'y' for yes or 'n' for no
+UserInput: n
+Okay have a good day n

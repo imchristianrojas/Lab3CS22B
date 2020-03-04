@@ -1,0 +1,14 @@
+hello's four corners are at (0,0) ,(0,15), (15,15), (15,0).
+hello's area is   and perimeter is 
+test2's four corners are at (10,10) ,(10,20), (20,20), (20,10).
+test2's area is   and perimeter is 
+Adding your two rectangles together.........
+Added Rectangle's four corners are at (0,0) ,(0,20), (20,20), (20,0).
+Added Rectangle's area is   and perimeter is 
+
+Subtracting your rectangles together.........
+Subtracted Rectangle's four corners are at (10,10) ,(10,15), (15,15), (15,10).
+Subtracted Rectangle's area is   and perimeter is 
+
+Do you want to try another two rectangles input 'y' for yes or 'n' for no
+UserInput: y
